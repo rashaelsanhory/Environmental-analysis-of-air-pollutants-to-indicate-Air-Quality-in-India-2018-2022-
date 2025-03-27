@@ -1,0 +1,303 @@
+﻿Year,State/UT,City/Town/Village,S02 Annual Average,NO2 Annual Average,PM10 Annual Average,PM2.5 Annual Average
+2022,Andhra Pradesh,Amaravati,12,10,54,30
+2022,Andhra Pradesh,Anatapur,6,19,61,32
+2022,Andhra Pradesh,Chittor,5,13,55,31
+2022,Andhra Pradesh,Eluru,5,18,67,31
+2022,Andhra Pradesh,Guntur,4,17,60,23
+2022,Andhra Pradesh,Kadapa,6,16,56,28
+2022,Andhra Pradesh,Kakinada,8,15,69,24
+2022,Andhra Pradesh,Kurnool,6,18,64,34
+2022,Andhra Pradesh,Nellore,4,17,55,22
+2022,Andhra Pradesh,Ongole,5,18,50,17
+2022,Andhra Pradesh,"Rajahmundry/Rajamahend
+ravaram",6,13,66,30
+2022,Andhra Pradesh,Srikakulam,9,20,72,26
+2022,Andhra Pradesh,Tirupati,6,22,58,31
+2022,Andhra Pradesh,Vijayawada,4,18,71,36
+2022,Andhra Pradesh,Visakhapatnam,15,33,108,43
+2022,Andhra Pradesh,Vizianagaram,9,19,70,25
+2022,Arunachal Pradesh,Naharlagun,28,12,57,23
+2022,Assam,Bongaigaon,5,12,56,30
+2022,Assam,Brynihat,8,16,257,108
+2022,Assam,Dibrugarh,6,11,44,22
+2022,Assam,Golaghat,6,11,43,18
+2022,Assam,Guwahati,12,8,101,53
+2022,Assam,Magherita,5,11,39,17
+2022,Assam,Nagaon,7,15,83,38
+2022,Assam,Nalbari,7,14,95,47
+2022,Assam,North Lakhimpur,7,15,60,27
+2022,Assam,Silcher,7,11,45,20
+2022,Assam,Sivasagar,5,10,38,19
+2022,Assam,Tezpur,6,15,57,24
+2022,Assam,Tinsukia,5,11,40,17
+2022,Bihar,Araria,8,46,139,77
+2022,Bihar,Arrah,6,65,162,59
+2022,Bihar,Aurangabad,9,25,187,74
+2022,Bihar,Begusarai,12,16,188,114
+2022,Bihar,Bettiah,3,24,178,95
+2022,Bihar,Bhagalpur,15,54,170,82
+2022,Bihar,Bihar Sharif,5,43,209,86
+2022,Bihar,Buxar,4,31,213,89
+2022,Bihar,Chhapra,6,37,216,98
+2022,Bihar,Darbhanga,10,20,202,92
+2022,Bihar,Gaya,8,38,149,71
+2022,Bihar,Hajipur,5,24,138,67
+2022,Bihar,Katihar,8,32,227,103
+2022,Bihar,Kishanganj,6,36,142,75
+2022,Bihar,Manguraha,5,26,88,38
+2022,Bihar,Motihari,7,31,153,79
+2022,Bihar,Munger,15,29,201,90
+2022,Bihar,Muzaffarpur,9,24,175,89
+2022,Bihar,Patna,7,32,175,90
+2022,Bihar,Purnia,5,45,167,100
+2022,Bihar,Rajgir,6,35,132,70
+2022,Bihar,Saharsa,4,43,250,103
+2022,Bihar,Samastipur,5,40,220,88
+2022,Bihar,Sasaram,13,53,142,74
+2022,Bihar,Siwan,8,56,198,112
+2022,Chandigarh (UT),Chandigarh,7,27,113,57
+2022,Chattisgarh,Bilaspur,8,14,61,27
+2022,Chattisgarh,Durg Bhillainagar,10,13,61,26
+2022,Chattisgarh,Raigarh,11,13,73,32
+2022,Chattisgarh,Raipur,14,20,72,30
+2022,"Dadara & Nagar Haveli
+and Daman & Diu (UT)",Baldevi,15,20,73,29
+2022,"Dadara & Nagar Haveli
+and Daman & Diu (UT)",Daman,19,24,76,31
+2022,"Dadara & Nagar Haveli
+and Daman & Diu (UT)",Patlara (Daman),18,23,76,30
+2022,"Dadara & Nagar Haveli
+and Daman & Diu (UT)",Silvasa,17,22,77,30
+2022,Delhi (UT),Delhi,9,41,207,98
+2022,Goa,Amona,7,12,58,27
+2022,Goa,Assanora,7,13,57,27
+2022,Goa,Bicholim,7,13,57,27
+2022,Goa,Codli,7,13,58,27
+2022,Goa,Cuncolim,7,13,68,31
+2022,Goa,Honda,7,13,58,27
+2022,Goa,Kundaim,7,13,59,28
+2022,Goa,Margao,7,13,57,27
+2022,Goa,Ponda,7,13,59,28
+2022,Goa,Sanguem,7,13,57,27
+2022,Goa,Tilamol,7,13,58,27
+2022,Goa,Tuem,7,13,57,27
+2022,Goa,Usgao Pale,7,13,60,28
+2022,Goa,Vasco,2,15,47,26
+2022,Gujarat,Ahmedabad,22,33,112,41
+2022,Gujarat,Ankleshwar,38,32,114,59
+2022,Gujarat,Gandhinagar,16,13,89,47
+2022,Gujarat,Jamnagar,14,19,109,27
+2022,Gujarat,Nandesari,10,4,55,45
+2022,Gujarat,Rajkot,14,19,108,28
+2022,Gujarat,Surat,19,23,113,49
+2022,Gujarat,Vadodara,14,19,110,28
+2022,Gujarat,Vapi,37,9,119,69
+2022,Gujarat,Vatva,8,42,113,51
+2022,Haryana,Ambala,7,24,136,68
+2022,Haryana,Bahadurgarh,11,26,163,83
+2022,Haryana,Ballabgarh,20,14,156,68
+2022,Haryana,Bhiwani,15,21,117,74
+2022,Haryana,Charkhi Dadri,7,17,157,77
+2022,Haryana,Dharuhera,10,19,216,87
+2022,Haryana,Faridabad,15,20,211,92
+2022,Haryana,Fatehabad,10,22,150,73
+2022,Haryana,Gurgaon,7,24,197,90
+2022,Haryana,Hissar,8,40,153,79
+2022,Haryana,Jind,8,15,132,78
+2022,Haryana,Kaithal,13,14,142,67
+2022,Haryana,Karnal,11,12,113,55
+2022,Haryana,Kurukshetra,11,31,132,74
+2022,Haryana,Mandikhera,13,10,87,28
+2022,Haryana,Manesar,13,21,161,91
+2022,Haryana,Narnaul,5,26,114,55
+2022,Haryana,Palwal,5,14,116,35
+2022,Haryana,Panipat,23,19,167,50
+2022,Haryana,Sirsa,19,28,130,50
+2022,Haryana,Sonepat,12,19,184,46
+2022,Haryana,Yamuna Nagar,11,14,168,76
+2022,Himachal Pradesh,Baddi,16,17,126,46
+2022,Himachal Pradesh,Damtal,2,5,67,33
+2022,Himachal Pradesh,Dharamshala,2,5,47,22
+2022,Himachal Pradesh,Kala Amb,4,12,84,42
+2022,Himachal Pradesh,Manali,2,7,43,14
+2022,Himachal Pradesh,Nalagarh,2,13,80,25
+2022,Himachal Pradesh,Parwanoo,2,5,44,12
+2022,Himachal Pradesh,Poanta Sahib,4,11,101,47
+2022,Himachal Pradesh,Shimla,2,8,44,20
+2022,Himachal Pradesh,Sunder Nagar,2,5,47,22
+2022,Himachal Pradesh,Una,3,8,55,27
+2022,Jammu & Kashmir (UT),Jammu,3,21,171,32
+2022,Jammu & Kashmir (UT),Srinagar (K),22,17,83,27
+2022,Karnataka,Bagalkote,5,9,47,24
+2022,Karnataka,Bangalore,6,19,68,32
+2022,Karnataka,Belgaum,21,19,88,37
+2022,Karnataka,Bijapur / Vijayapura,5,10,50,18
+2022,Karnataka,Chamarajanagar,3,17,40,17
+2022,Karnataka,Chikkaballapur,9,22,67,33
+2022,Karnataka,Chikkamagaluru,5,17,46,20
+2022,Karnataka,Chitradurga,3,6,41,12
+2022,Karnataka,Devanagere,4,16,66,26
+2022,Karnataka,Gadag,15,13,53,28
+2022,Karnataka,Gulbarga / Kalaburgi,17,20,92,38
+2022,Karnataka,Hassan,17,25,68,27
+2022,Karnataka,Haveri,13,8,51,25
+2022,Karnataka,Hubli Dharwad,8,15,72,29
+2022,Karnataka,Kolar,59,13,97,43
+2022,Karnataka,Koppal,20,13,55,23
+2022,Karnataka,Madikeri,16,4,36,19
+2022,Karnataka,Mangalore,8,27,58,22
+2022,Karnataka,Mysore,3,14,47,20
+2022,Karnataka,Raichur,16,24,91,31
+2022,Karnataka,Ramanagara,24,19,58,28
+2022,Karnataka,Shimaga / Shivamogga,5,23,52,23
+2022,Karnataka,Tumkuru,2,14,59,34
+2022,Karnataka,Yadgir,19,12,62,30
+2022,Kerala,Eloor,12,18,62,31
+2022,Kerala,Ernakulam,3,26,34,22
+2022,Kerala,Kannur,2,14,63,36
+2022,Kerala,Kochi,6,17,80,58
+2022,Kerala,Kollam,4,16,72,33
+2022,Kerala,Kozhikode,5,14,59,33
+2022,Kerala,Mallappuram,2,15,31,25
+2022,Kerala,Palakkad,2,5,62,24
+2022,Kerala,Thiruvanantapuram,5,12,43,27
+2022,Kerala,Thrissur,3,18,54,31
+2022,Kerala,Wayanad,2,5,40,22
+2022,Madhya Pradesh,Amlai,11,18,71,33
+2022,Madhya Pradesh,Bhopal,16,22,126,52
+2022,Madhya Pradesh,Chindwara,5,17,78,35
+2022,Madhya Pradesh,Dewas,13,23,102,38
+2022,Madhya Pradesh,Gwalior,20,27,132,64
+2022,Madhya Pradesh,Indore,14,49,111,42
+2022,Madhya Pradesh,Jabalpur,10,30,128,46
+2022,Madhya Pradesh,Katni,17,27,151,58
+2022,Madhya Pradesh,Maihar,9,10,37,17
+2022,Madhya Pradesh,Mandideep,37,38,108,39
+2022,Madhya Pradesh,Nagda,7,5,45,23
+2022,Madhya Pradesh,Pithampur,15,14,106,44
+2022,Madhya Pradesh,Ratlam,12,27,98,40
+2022,Madhya Pradesh,Rewa,6,21,56,25
+2022,Madhya Pradesh,Sagar,8,19,78,34
+2022,Madhya Pradesh,Satna,6,13,62,21
+2022,Madhya Pradesh,Singrauli,27,71,184,72
+2022,Madhya Pradesh,Ujjain,8,16,118,46
+2022,Maharashtra,Aurangabad,15,26,125,58
+2022,Maharashtra,Chandrapur,14,27,123,48
+2022,Maharashtra,Dombivali / Kalyan,21,28,128,54
+2022,Maharashtra,Mumbai,16,29,114,49
+2022,Maharashtra,Nagpur,8,22,85,45
+2022,Maharashtra,Nashik,5,27,61,36
+2022,Maharashtra,Navi Mumbai,21,44,100,50
+2022,Maharashtra,Pune,47,64,110,73
+2022,Maharashtra,Solapur,18,24,74,40
+2022,Maharashtra,Thane,21,42,116,58
+2022,Maharashtra,Vasai virar,22,19,156,40
+2022,Manipur,Imphal,51,8,37,12
+2022,Meghalaya,Byraihat,21,19,152,60
+2022,Meghalaya,Dawki,6,12,39,21
+2022,Meghalaya,Khlihriat,5,10,48,25
+2022,Meghalaya,Nongstoin,5,11,38,21
+2022,Meghalaya,Shillong,11,13,34,20
+2022,Meghalaya,Tura,3,7,36,17
+2022,Meghalaya,Umaim,6,8,96,31
+2022,Mizoram,Aizwal,9,4,42,10
+2022,Mizoram,Champhai,2,5,22,11
+2022,Mizoram,Kolasib,2,5,20,9
+2022,Nagaland,Kohima,41,3,70,27
+2022,Odisha,Angul,10,27,100,36
+2022,Odisha,Balasore,4,11,79,49
+2022,Odisha,Berhampur,5,21,66,29
+2022,Odisha,Bhubaneshwar,2,17,108,38
+2022,Odisha,Bonaigarh,11,14,107,41
+2022,Odisha,Brajrajnagar,24,19,73,34
+2022,Odisha,Cuttack,4,19,103,35
+2022,Odisha,Jharsuguda,9,14,111,55
+2022,Odisha,Kalinga Nagar,6,14,102,59
+2022,Odisha,Paradeep,14,9,91,39
+2022,Odisha,Rajgangpur,11,12,118,29
+2022,Odisha,Rourkela,11,13,110,42
+2022,Odisha,Sambalpur,7,25,102,36
+2022,Odisha,Talcher,24,28,80,39
+2022,Pondicherry (UT),Pondicherry,9,11,51,25
+2022,Punjab,Amritsar,14,37,117,51
+2022,Punjab,Bhatinda,11,21,119,38
+2022,Punjab,Jalandhar,13,23,126,46
+2022,Punjab,Khanna,13,26,114,47
+2022,Punjab,Ludhiana,11,23,172,59
+2022,Punjab,Mandi Gobindgarh,11,23,132,72
+2022,Punjab,Patiala,6,19,105,48
+2022,Punjab,Rupnagar,8,11,119,45
+2022,Rajasthan,Ajmer,18,26,113,51
+2022,Rajasthan,Alwar,13,25,118,41
+2022,Rajasthan,Bhiwadi,18,58,210,94
+2022,Rajasthan,Jaipur,11,39,143,57
+2022,Rajasthan,Jodhpur,11,32,155,69
+2022,Rajasthan,Kota,10,27,126,60
+2022,Rajasthan,Pali,9,21,105,58
+2022,Rajasthan,Udaipur,8,28,130,54
+2022,Sikkim,Gangtok,9,5,44,13
+2022,Tamilnadu,Chengalpattu,49,27,80,41
+2022,Tamilnadu,Chennai,11,16,61,27
+2022,Tamilnadu,Coimbatore,14,16,50,27
+2022,Tamilnadu,Cuddalore,16,18,45,17
+2022,Tamilnadu,Dharmapuri,9,23,44,23
+2022,Tamilnadu,Dindigul,34,45,44,27
+2022,Tamilnadu,Gummidipoondi,8,7,34,20
+2022,Tamilnadu,Hosur,26,12,66,35
+2022,Tamilnadu,Madurai,17,20,67,28
+2022,Tamilnadu,Mettur,9,23,43,21
+2022,Tamilnadu,Nagercoil,8,14,42,12
+2022,Tamilnadu,Ooty,39,10,46,21
+2022,Tamilnadu,Perambalur,10,13,34,14
+2022,Tamilnadu,Ramanathapuram,10,3,46,20
+2022,Tamilnadu,Salem,24,14,48,25
+2022,Tamilnadu,Sivagangai,12,15,42,24
+2022,Tamilnadu,Theni,13,19,54,25
+2022,Tamilnadu,Tirupur,17,19,136,42
+2022,Tamilnadu,Tiruvannamalai,5,14,52,17
+2022,Tamilnadu,Tiruvarur,14,16,41,15
+2022,Tamilnadu,Trichy,11,15,46,20
+2022,Tamilnadu,Tuticorin,6,12,56,17
+2022,Tamilnadu,Vellore,21,6,69,30
+2022,Tamilnadu,Villupuram,14,17,42,16
+2022,Telangana,Hyderabad,7,22,88,39
+2022,Telangana,Karimnagar,6,29,83,40
+2022,Telangana,Nalgonda,11,29,71,30
+2022,Telangana,Nizamabad,7,25,56,30
+2022,Telangana,Patencheru,9,31,83,37
+2022,Telangana,Ramagundum,7,31,83,51
+2022,Telangana,Sangareddy,9,32,88,48
+2022,Tripura,Agartala,31,11,94,53
+2022,Uttar Pradesh,Agra,14,21,129,66
+2022,Uttar Pradesh,Allahabad,25,21,124,45
+2022,Uttar Pradesh,Baghpat,21,36,145,74
+2022,Uttar Pradesh,Bareilly,12,26,124,48
+2022,Uttar Pradesh,Bulandshahr,14,26,183,73
+2022,Uttar Pradesh,Firozabad,14,29,132,51
+2022,Uttar Pradesh,Ghaziabad,16,42,211,87
+2022,Uttar Pradesh,Gorakhpur,30,28,97,38
+2022,Uttar Pradesh,Greater Noida,17,35,219,80
+2022,Uttar Pradesh,Hapur,12,31,164,74
+2022,Uttar Pradesh,Jhansi,15,19,129,47
+2022,Uttar Pradesh,Kanpur,11,33,142,59
+2022,Uttar Pradesh,Khurja,20,24,156,62
+2022,Uttar Pradesh,Lucknow,10,31,148,63
+2022,Uttar Pradesh,Meerut,15,41,168,78
+2022,Uttar Pradesh,Moradabad,15,16,124,53
+2022,Uttar Pradesh,Muzaffarnagar,15,23,180,93
+2022,Uttar Pradesh,Noida,17,40,210,80
+2022,Uttar Pradesh,Varanasi,20,28,103,38
+2022,Uttar Pradesh,Vrindavan,32,12,104,41
+2022,Uttarakhand,Dehradun,11,14,118,59
+2022,Uttarakhand,Haldwani,8,25,114,31
+2022,Uttarakhand,Kashipur,16,20,123,60
+2022,Uttarakhand,Rishikesh,18,23,136,72
+2022,West Bengal,Asansol+Raniganj,11,35,135,60
+2022,West Bengal,Barrckpore,4,24,86,55
+2022,West Bengal,Darjeeling,8,31,64,32
+2022,West Bengal,Durgapur,20,26,156,62
+2022,West Bengal,Haldia,14,25,94,36
+2022,West Bengal,Howrah,14,25,131,65
+2022,West Bengal,Kalyani,3,23,84,47
+2022,West Bengal,Kolkata,8,34,101,44
+2022,West Bengal,Siliguri,9,37,111,42

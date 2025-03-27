@@ -1,0 +1,926 @@
+﻿Year,State/UT,City/Town/Village,Sum of S02 Annual Average,Sum of NO2 Annual Average,Sum of PM10 Annual Average,Sum of PM2.5 Annual Average
+1/1/2018,Andhra Pradesh,Anantapur,5,34,87,26
+1/1/2018,Andhra Pradesh,Chitoor,7,26,72,45
+1/1/2018,Andhra Pradesh,Kadapa,5,28,69,19
+1/1/2018,Andhra Pradesh,Kakinada,9,66,74,21
+1/1/2018,Andhra Pradesh,Kurnool,4,26,69,14
+1/1/2018,Andhra Pradesh,Nellore,5,34,65,23
+1/1/2018,Andhra Pradesh,Tirupati,5,12,51,15
+1/1/2018,Andhra Pradesh,Vijaywada,5,29,79,19
+1/1/2018,Assam,Guwahati,8,72,115,18
+1/1/2018,Bihar,Begusarai,12,58,108,21
+1/1/2018,Bihar,Muzaffarpur,14,84,139,24
+1/1/2018,Chandigarh,Chandigarh,2,51,117,21
+1/1/2018,Chattisgarh,Bilaspur,6,20,42,12
+1/1/2018,Chattisgarh,Korba,10,21,65,20
+1/1/2018,Dadra & Nagar Haveli,Silvassa,31,45,132,35
+1/1/2018,Daman & Diu,Daman,28,40,114,31
+1/1/2018,Delhi,Delhi,6,112,156,96
+1/1/2018,Goa,Amona,8,20,62,12
+1/1/2018,Goa,Assanora,8,18,56,13
+1/1/2018,Goa,Bicholim,7,23,70,13
+1/1/2018,Goa,Codli,8,20,61,12
+1/1/2018,Goa,Cuncolim,11,42,77,15
+1/1/2018,Goa,Curchorem,9,32,57,13
+1/1/2018,Goa,Honda,8,20,62,13
+1/1/2018,Goa,Kundaim,8,22,69,14
+1/1/2018,Goa,Margao,7,18,57,13
+1/1/2018,Goa,Mormugao,5,38,101,11
+1/1/2018,Goa,Panaji,6,8,68,12
+1/1/2018,Goa,Ponda,8,29,93,13
+1/1/2018,Goa,Sanguem,9,31,61,13
+1/1/2018,Goa,Tilamol,9,44,81,14
+1/1/2018,Goa,Tuem,8,17,54,13
+1/1/2018,Goa,Usgao,7,19,59,13
+1/1/2018,Goa,Vasco,5,60,83,11
+1/1/2018,Gujarat,Ahmedabad,17,68,217,27
+1/1/2018,Gujarat,Anklesvar,16,46,148,25
+1/1/2018,Gujarat,Jamnagar,17,44,137,21
+1/1/2018,Gujarat,Rajkot,19,67,215,23
+1/1/2018,Gujarat,Surat,19,37,109,25
+1/1/2018,Gujarat,Vadodara,19,55,167,23
+1/1/2018,Gujarat,Vapi,18,59,189,27
+1/1/2018,Himachal Pradesh,Damtal,2,25,64,10
+1/1/2018,Himachal Pradesh,Dharamshala,2,23,36,7
+1/1/2018,Himachal Pradesh,Kala Amb,3,64,130,15
+1/1/2018,Himachal Pradesh,Manali,2,30,84,13
+1/1/2018,Himachal Pradesh,Paonta Sahib,2,51,82,13
+1/1/2018,Himachal Pradesh,Parwanoo,2,13,60,5
+1/1/2018,Himachal Pradesh,Shimla,4,33,60,26
+1/1/2018,Himachal Pradesh,Sunder Nagar,2,51,78,10
+1/1/2018,Jammu & Kashmir,Jammu,4,45,169,19
+1/1/2018,Karnataka,Bagalkote,2,35,65,13
+1/1/2018,Karnataka,Bangalore,2,53,116,33
+1/1/2018,Karnataka,Belgaum,2,50,89,15
+1/1/2018,Karnataka,Bidar,2,41,82,14
+1/1/2018,Karnataka,Bijapur,2,31,76,14
+1/1/2018,Karnataka,Devanagere,4,19,48,7
+1/1/2018,Karnataka,Gulburga,2,41,55,14
+1/1/2018,Karnataka,Hassan,4,27,33,19
+1/1/2018,Karnataka,Hubli-Dharwad,5,22,66,20
+1/1/2018,Karnataka,Kolar,2,38,81,30
+1/1/2018,Karnataka,Mysore,3,29,53,15
+1/1/2018,Karnataka,Raichur,2,33,90,12
+1/1/2018,Karnataka,Shimaga,8,17,44,6
+1/1/2018,Kerala,Kozhikode,2,7,61,11
+1/1/2018,Madhya Pradesh,Amlai,17,31,96,22
+1/1/2018,Madhya Pradesh,Bhopal,9,67,155,18
+1/1/2018,Madhya Pradesh,Chhindwara,4,47,81,16
+1/1/2018,Madhya Pradesh,Dewas,16,51,70,21
+1/1/2018,Madhya Pradesh,Gwalior,12,61,127,20
+1/1/2018,Madhya Pradesh,Indore,10,41,87,19
+1/1/2018,Madhya Pradesh,Jabalpur,2,38,107,14
+1/1/2018,Madhya Pradesh,Katni,12,37,90,28
+1/1/2018,Madhya Pradesh,Nagda,20,29,56,14
+1/1/2018,Madhya Pradesh,Prithampur,11,35,88,21
+1/1/2018,Madhya Pradesh,Sagar,3,34,79,15
+1/1/2018,Madhya Pradesh,Satna,4,56,124,9
+1/1/2018,Madhya Pradesh,Singrauli,23,53,114,30
+1/1/2018,Madhya Pradesh,Ujjain,15,38,93,16
+1/1/2018,Maharashtr a,Mumbai,2,46,172,25
+1/1/2018,Maharashtr a,Nagpur,13,44,112,39
+1/1/2018,Meghalaya,Shillong,2,12,31,7
+1/1/2018,Odisha,Angul,9,52,99,25
+1/1/2018,Odisha,Balasore,2,44,83,11
+1/1/2018,Odisha,Berhampur,2,33,64,19
+1/1/2018,Odisha,Bhubneshwar,2,31,112,18
+1/1/2018,Odisha,Bonaigarh,8,36,99,12
+1/1/2018,Odisha,Cuttack,5,55,129,33
+1/1/2018,Odisha,Jharsuguda,10,56,106,18
+1/1/2018,Odisha,Kalinga Nagar,3,47,110,13
+1/1/2018,Odisha,Paradeep,19,48,119,12
+1/1/2018,Odisha,Rajgangpur,17,49,146,20
+1/1/2018,Odisha,Rayagada,4,37,60,18
+1/1/2018,Odisha,Rourkela,7,41,93,14
+1/1/2018,Odisha,Sambalpur,5,53,85,21
+1/1/2018,Odisha,Talcher,10,54,125,29
+1/1/2018,sWest Bengal,Asansol,13,58,144,35
+1/1/2018,sWest Bengal,Barrackpore,10,44,110,51
+1/1/2018,sWest Bengal,Darjeeling,2,20,36,14
+1/1/2018,sWest Bengal,Durgapur,12,71,148,35
+1/1/2018,sWest Bengal,Haldia,12,33,87,36
+1/1/2018,sWest Bengal,Howrah,11,105,209,94
+1/1/2018,sWest Bengal,Kalyani,10,40,89,48
+1/1/2018,sWest Bengal,Kolkata,4,99,129,37
+1/1/2018,sWest Bengal,Siliguri,2,35,72,17
+1/1/2018,Tamilnadu,Chennai,14,31,54,17
+1/1/2018,Tamilnadu,Coimbatore,5,28,52,22
+1/1/2018,Tamilnadu,Cuddalore,12,32,51,17
+1/1/2018,Tamilnadu,Madurai,11,32,74,18
+1/1/2018,Tamilnadu,Mettur,7,24,44,22
+1/1/2018,Tamilnadu,Salem,8,21,57,26
+1/1/2018,Tamilnadu,Trichy,18,54,106,24
+1/1/2018,Tamilnadu,Tuticorin,13,22,96,11
+1/1/2018,Telangana,Adilabad,6,33,69,23
+1/1/2018,Telangana,Hyderabad,5,53,134,36
+1/1/2018,Telangana,Karimnagar,9,49,98,39
+1/1/2018,Telangana,Khammam,9,36,85,41
+1/1/2018,Telangana,Nalgonda,6,40,57,23
+1/1/2018,Telangana,Nizamabad,6,27,60,23
+1/1/2018,Telangana,Patencheru,6,37,81,23
+1/1/2018,Telangana,Ramagundam,9,49,104,41
+1/1/2018,Telangana,Sangareddy,9,47,101,68
+1/1/2018,Telangana,Warangal,9,41,86,37
+1/1/2018,Tripura,Agartala,11,24,47,16
+1/1/2018,Uttar Pradesh,Agra,5,95,201,21
+1/1/2018,Uttar Pradesh,Ghaziabad,22,102,254,44
+1/1/2018,Uttar Pradesh,Kanpur,8,83,213,52
+1/1/2018,Uttar Pradesh,Lucknow,8,108,208,29
+1/1/2018,Uttar Pradesh,Noida,19,119,251,50
+1/1/2020,Andhra Pradesh,Anantapur,6,15,66,31
+1/1/2020,Andhra Pradesh,Chitoor,5,17,44,23
+1/1/2020,Andhra Pradesh,Guntur,5,18,62,24
+1/1/2020,Andhra Pradesh,Guwahati,8,13,107,49
+1/1/2020,Andhra Pradesh,Kurnool,5,13,45,21
+1/1/2020,Andhra Pradesh,Nellore,5,17,60,27
+1/1/2020,Andhra Pradesh,Ongole,5,17,51,20
+1/1/2020,Andhra Pradesh,Srikakulam,7,18,65,34
+1/1/2020,Andhra Pradesh,Vijaywada,5,17,58,23
+1/1/2020,Andhra Pradesh,Vishakhapatnam,9,20,87,34
+1/1/2020,Andhra Pradesh,Vizianagaram,7,16,65,24
+1/1/2020,Chandigarh,Chandigarh,2,20,110,71
+1/1/2020,Chattisgarh,Bilaspur,5,12,55,30
+1/1/2020,Chattisgarh,Durg-Bhillainagar,5,9,59,28
+1/1/2020,Chattisgarh,Korba,7,17,46,19
+1/1/2020,Dadra & Nagar Haveli and Daman & Diu,Daman,16,21,92,32
+1/1/2020,Dadra & Nagar Haveli and Daman & Diu,Patlara (Daman),10,14,64,22
+1/1/2020,Dadra & Nagar Haveli and Daman & Diu,Silvassa,17,22,96,33
+1/1/2020,Goa,Amona,8,13,57,30
+1/1/2020,Goa,Assanora,9,13,56,30
+1/1/2020,Goa,Bicholim,9,13,60,31
+1/1/2020,Goa,Codli,8,13,56,29
+1/1/2020,Goa,Cuncolim,9,13,66,33
+1/1/2020,Goa,Honda,9,13,62,32
+1/1/2020,Goa,Kundaim,9,13,61,32
+1/1/2020,Goa,Margao,8,13,56,29
+1/1/2020,Goa,Mormugao,2,8,49,36
+1/1/2020,Goa,Panaji,2,10,56,23
+1/1/2020,Goa,Ponda,8,13,57,30
+1/1/2020,Goa,Sanguem,8,13,55,29
+1/1/2020,Goa,Tilamol,9,13,65,34
+1/1/2020,Goa,Tuem,8,13,55,28
+1/1/2020,Goa,Usgao,9,13,64,33
+1/1/2020,Gujarat,Ahmedabad,14,17,108,28
+1/1/2020,Gujarat,Anklesvar,15,21,94,32
+1/1/2020,Gujarat,Dharamshala,2,6,39,20
+1/1/2020,Gujarat,Jamnagar,14,17,92,25
+1/1/2020,Gujarat,Kala Amb,4,15,95,61
+1/1/2020,Gujarat,Paonta Sahib,3,12,68,34
+1/1/2020,Gujarat,Parwanoo,2,5,45,10
+1/1/2020,Gujarat,Rajkot,15,18,107,29
+1/1/2020,Gujarat,Shimla,2,6,42,20
+1/1/2020,Gujarat,Surat,18,23,93,34
+1/1/2020,Gujarat,Vadodara,13,16,78,23
+1/1/2020,Gujarat,Vapi,20,25,105,41
+1/1/2020,Jammu & Kashmir,Jammu,3,19,171,31
+1/1/2020,Karnataka,Bagalkote,2,14,42,14
+1/1/2020,Karnataka,Belgaum,2,12,70,30
+1/1/2020,Karnataka,Chitradurga,3,5,41,10
+1/1/2020,Karnataka,Devanagere,5,7,40,11
+1/1/2020,Karnataka,Hassan,3,19,36,22
+1/1/2020,Karnataka,Hubli-Dharwad,4,15,46,15
+1/1/2020,Karnataka,Kozhikode,2,5,28,19
+1/1/2020,Karnataka,Malapuram,2,13,28,22
+1/1/2020,Karnataka,Mangalore,6,10,47,32
+1/1/2020,Karnataka,Mysore,2,15,47,24
+1/1/2020,Karnataka,Palakkad,3,6,52,22
+1/1/2020,Karnataka,Timukuru,2,26,60,27
+1/1/2020,Madhya Pradesh,Amlai,11,18,60,28
+1/1/2020,Madhya Pradesh,Chhindwara,3,13,66,24
+1/1/2020,Madhya Pradesh,Dewas,16,17,69,41
+1/1/2020,Madhya Pradesh,Gwalior,14,19,138,49
+1/1/2020,Madhya Pradesh,Indore,11,20,71,32
+1/1/2020,Madhya Pradesh,Jabalpur,2,14,69,27
+1/1/2020,Madhya Pradesh,Katni,9,23,100,43
+1/1/2020,Madhya Pradesh,Nagda,16,11,42,24
+1/1/2020,Madhya Pradesh,Prithampur,10,16,74,29
+1/1/2020,Madhya Pradesh,Sagar,3,14,64,23
+1/1/2020,Madhya Pradesh,Satna,5,12,104,44
+1/1/2020,Madhya Pradesh,Singrauli,29,36,143,56
+1/1/2020,Madhya Pradesh,Ujjain,10,11,87,37
+1/1/2020,Manipur,Imphal,5,22,137,69
+1/1/2020,Meghalaya,Byrnihat,16,15,113,38
+1/1/2020,Meghalaya,Dawki,3,13,29,16
+1/1/2020,Meghalaya,Khliehriat,3,10,37,16
+1/1/2020,Meghalaya,Nongstoin,2,13,31,18
+1/1/2020,Meghalaya,Shillong,2,7,30,14
+1/1/2020,Meghalaya,Tura,3,12,33,12
+1/1/2020,Meghalaya,Umiam / Umsning,4,11,72,24
+1/1/2020,Odisha,Angul,10,24,85,39
+1/1/2020,Odisha,Balasore,2,11,76,40
+1/1/2020,Odisha,Berhampur,4,17,53,23
+1/1/2020,Odisha,Bonaigarh,7,12,85,37
+1/1/2020,Odisha,Jharsuguda,7,12,86,42
+1/1/2020,Odisha,Rajgangpur,7,11,92,37
+1/1/2020,Odisha,Rayagada,4,15,63,30
+1/1/2020,Odisha,Rourkela,24,44,302,128
+1/1/2020,Odisha,Sambalpur,5,22,67,42
+1/1/2020,Odisha,Talcher,9,27,98,34
+1/1/2020,Tamilnadu,Chennai,14,16,54,30
+1/1/2020,Tamilnadu,Coimbatore,6,17,45,20
+1/1/2020,Tamilnadu,Cuddalore,13,17,51,32
+1/1/2020,Tamilnadu,Nizamabad,5,25,62,35
+1/1/2020,Tamilnadu,Sangareddy,6,52,86,36
+1/1/2020,Tamilnadu,Trichy,11,16,36,19
+1/1/2020,Tripura,Agartala,8,8,67,49
+1/1/2020,Uttar Pradesh,Agra,4,17,152,86
+1/1/2020,Uttar Pradesh,Baghpat,10,26,196,106
+1/1/2020,Uttar Pradesh,Bareily,23,28,133,27
+1/1/2020,Uttar Pradesh,Ghaziabad,11,39,201,105
+1/1/2020,Uttar Pradesh,Greater Noida,10,32,224,118
+1/1/2020,Uttar Pradesh,Hapur,22,23,229,160
+1/1/2020,Uttar Pradesh,Kanpur,12,60,241,40
+1/1/2020,Uttar Pradesh,Muzaffarnagar,14,21,143,60
+1/1/2020,Uttar Pradesh,Noida,11,68,198,108
+1/1/2020,Uttarakhand,Dehradun,21,25,122,74
+1/1/2020,West Bengal,Asansol,13,32,111,65
+1/1/2020,West Bengal,Barrackpore,4,20,83,49
+1/1/2020,West Bengal,Darjeeling,8,34,57,28
+1/1/2020,West Bengal,Durgapur,13,32,111,57
+1/1/2020,West Bengal,Haldia,11,38,87,44
+1/1/2020,West Bengal,Howrah,13,43,124,67
+1/1/2020,West Bengal,Kalyani,3,17,75,42
+1/1/2020,West Bengal,Kolkata,6,47,92,52
+1/1/2020,West Bengal,Siliguri,9,36,94,44
+1/1/2021,Andhra Pradesh,Amaravati,14,12,55,28
+1/1/2021,Andhra Pradesh,Anatapur,7,16,64,30
+1/1/2021,Andhra Pradesh,Chittor,5,14,46,25
+1/1/2021,Andhra Pradesh,Eluru,5,17,63,30
+1/1/2021,Andhra Pradesh,Guntur,5,17,60,29
+1/1/2021,Andhra Pradesh,Kadapa,5,14,53,26
+1/1/2021,Andhra Pradesh,Kakinada,8,14,61,28
+1/1/2021,Andhra Pradesh,Kurnool,6,15,58,26
+1/1/2021,Andhra Pradesh,Nellore,5,17,55,23
+1/1/2021,Andhra Pradesh,Ongole,5,17,53,18
+1/1/2021,Andhra Pradesh,Rajahmundry,8,15,72,33
+1/1/2021,Andhra Pradesh,Srikakulam,9,20,77,27
+1/1/2021,Andhra Pradesh,Tirupati,6,22,51,27
+1/1/2021,Andhra Pradesh,Vijayawada,5,17,65,34
+1/1/2021,Andhra Pradesh,Visakhapatnam,12,35,103,41
+1/1/2021,Andhra Pradesh,Vizianagaram,9,19,72,27
+1/1/2021,Arunachal Pradesh,Naharlagun,27,6,54,15
+1/1/2021,Assam,Guwahati,26,11,114,60
+1/1/2021,Assam,Nalbari,6,14,92,42
+1/1/2021,Assam,Silcher,8,9,46,37
+1/1/2021,Bihar,Gaya,11,14,79,52
+1/1/2021,Bihar,Hajipur,5,11,148,60
+1/1/2021,Bihar,Muzaffarpur,6,13,142,80
+1/1/2021,Bihar,Patna,8,39,150,73
+1/1/2021,Chandigarh (UT),Chandigarh,6,24,98,49
+1/1/2021,Chattisgarh,Bilaspur,8,13,71,28
+1/1/2021,Chattisgarh,Durg-Bhillainagar,7,11,61,31
+1/1/2021,Chattisgarh,Raipur,13,22,62,35
+1/1/2021,Dadara & Nagar Haveli and Daman & Diu (UT),Daman,15,20,84,30
+1/1/2021,Delhi (UT),Delhi,10,42,207,107
+1/1/2021,Goa,Amona,7,13,59,27
+1/1/2021,Goa,Assanora,7,13,58,26
+1/1/2021,Goa,Bicholim,8,13,61,28
+1/1/2021,Goa,Codli,7,13,62,28
+1/1/2021,Goa,Cuncolim,6,13,67,32
+1/1/2021,Goa,Honda,7,13,61,28
+1/1/2021,Goa,Kundaim,7,13,62,28
+1/1/2021,Goa,Mapusa,2,16,57,24
+1/1/2021,Goa,Margao,7,13,59,27
+1/1/2021,Goa,Panaji,2,15,73,26
+1/1/2021,Goa,Ponda,8,13,63,28
+1/1/2021,Goa,Sanguem,7,13,60,28
+1/1/2021,Goa,Tilamol,7,13,62,29
+1/1/2021,Goa,Tuem,7,13,59,27
+1/1/2021,Goa,Usgao-Pale,8,13,64,29
+1/1/2021,Goa,Vasco,2,15,58,32
+1/1/2021,Gujara,Saraspur,13,17,120,27
+1/1/2021,Gujarat,Ahmedabad,17,34,123,46
+1/1/2021,Gujarat,Ankleshwar,40,26,120,63
+1/1/2021,Gujarat,Gandhinagar,9,15,78,40
+1/1/2021,Gujarat,Jamnagar,14,18,116,28
+1/1/2021,Gujarat,Nandesari,6,8,72,51
+1/1/2021,Gujarat,Navarangpur,12,16,97,23
+1/1/2021,Gujarat,Rajkot,14,18,118,30
+1/1/2021,Gujarat,Surat,20,24,100,35
+1/1/2021,Gujarat,Vadodara,15,19,111,30
+1/1/2021,Gujarat,Vapi,16,24,114,51
+1/1/2021,Gujarat,Vatva,28,68,160,67
+1/1/2021,Haryana,Ambala,9,21,122,62
+1/1/2021,Haryana,Ballabgarh,9,35,165,82
+1/1/2021,Haryana,Bhiwani,13,23,135,50
+1/1/2021,Haryana,Charkhi Dadri,5,28,156,79
+1/1/2021,Haryana,Dharuhera,18,26,187,77
+1/1/2021,Haryana,Faridabad,10,35,230,98
+1/1/2021,Haryana,Fatehabad,10,22,153,61
+1/1/2021,Haryana,Gurgaon,6,20,174,93
+1/1/2021,Haryana,Hissar,12,30,162,92
+1/1/2021,Haryana,Jind,10,24,145,88
+1/1/2021,Haryana,Kaithal,21,17,144,58
+1/1/2021,Haryana,Karnal,26,20,119,60
+1/1/2021,Haryana,Kurukshetra,10,29,142,69
+1/1/2021,Haryana,Mandikhera,15,21,92,52
+1/1/2021,Haryana,Manesar,8,9,164,96
+1/1/2021,Haryana,Narnaul,7,25,175,69
+1/1/2021,Haryana,Palwal,10,11,127,37
+1/1/2021,Haryana,Panipat,39,15,196,61
+1/1/2021,Haryana,Sirsa,15,26,129,57
+1/1/2021,Haryana,Sonepat,9,24,319,55
+1/1/2021,Haryana,Yamuna Nagar,7,24,166,79
+1/1/2021,Himachal Pradesh,Baddi,2,13,139,45
+1/1/2021,Himachal Pradesh,Damtal,2,5,67,33
+1/1/2021,Himachal Pradesh,Dharamshala,2,5,42,22
+1/1/2021,Himachal Pradesh,Kala Amb,4,15,118,51
+1/1/2021,Himachal Pradesh,Manali,2,7,41,13
+1/1/2021,Himachal Pradesh,Nalagarh,2,12,92,29
+1/1/2021,Himachal Pradesh,Parwanoo,2,5,38,11
+1/1/2021,Himachal Pradesh,Poanta Sahib,3,13,90,44
+1/1/2021,Himachal Pradesh,Shimla,2,6,58,22
+1/1/2021,Himachal Pradesh,Sunder Nagar,2,5,52,23
+1/1/2021,Himachal Pradesh,Una,2,7,53,20
+1/1/2021,Jammu & Kashmir (UT),Jammu,3,20,172,31
+1/1/2021,Jammu & Kashmir (UT),Srinagar (K),10,14,97,32
+1/1/2021,Jharkhand,Ranchi,18,36,110,105
+1/1/2021,Karnataka,Bagalkote,7,11,41,21
+1/1/2021,Karnataka,Bangalore,5,21,67,31
+1/1/2021,Karnataka,Belgaum,2,11,81,25
+1/1/2021,Karnataka,Bidar,26,7,71,39
+1/1/2021,Karnataka,Bijapur / Vijayapura,5,11,50,23
+1/1/2021,Karnataka,Chamarajanagar,4,17,49,24
+1/1/2021,Karnataka,Chikkaballapur,6,25,57,27
+1/1/2021,Karnataka,Chikkamagaluru,4,17,40,23
+1/1/2021,Karnataka,Chitradurga,2,5,38,9
+1/1/2021,Karnataka,Devanagere,10,14,54,15
+1/1/2021,Karnataka,Gadag,30,12,32,30
+1/1/2021,Karnataka,Gulbarga / Kalaburgi,13,24,79,42
+1/1/2021,Karnataka,Hassan,15,21,60,22
+1/1/2021,Karnataka,Hubli-Dharwad,7,22,71,29
+1/1/2021,Karnataka,Kolar,33,14,50,28
+1/1/2021,Karnataka,Koppal,13,12,40,17
+1/1/2021,Karnataka,Madikeri,15,5,36,18
+1/1/2021,Karnataka,Mandya,2,13,34,19
+1/1/2021,Karnataka,Mangalore,19,26,51,26
+1/1/2021,Karnataka,Mysore,4,19,46,20
+1/1/2021,Karnataka,Raichur,7,22,90,33
+1/1/2021,Karnataka,Ramanagara,18,18,52,27
+1/1/2021,Karnataka,Shimaga / Shivamogga,3,21,45,23
+1/1/2021,Karnataka,Tumkuru,2,15,62,31
+1/1/2021,Karnataka,Yadgir,12,14,59,29
+1/1/2021,Kerala,Eloor,13,14,47,25
+1/1/2021,Kerala,Ernakulam,5,8,50,26
+1/1/2021,Kerala,Kannur,2,19,73,34
+1/1/2021,Kerala,Kochi,6,11,53,30
+1/1/2021,Kerala,Kollam,3,24,77,38
+1/1/2021,Kerala,Kozhikode,3,5,51,19
+1/1/2021,Kerala,Mallappuram,2,16,31,26
+1/1/2021,Kerala,Palakkad,2,5,57,33
+1/1/2021,Kerala,Thiruvanantapuram,6,8,47,23
+1/1/2021,Kerala,Thrissur,23,5,49,38
+1/1/2021,Kerala,Wayanad,2,5,29,14
+1/1/2021,Madhya Pradesh,Amlai,10,22,72,31
+1/1/2021,Madhya Pradesh,Bhopal,17,24,119,45
+1/1/2021,Madhya Pradesh,Chindwara,5,13,66,28
+1/1/2021,Madhya Pradesh,Dewas,12,20,83,37
+1/1/2021,Madhya Pradesh,Gwalior,16,23,115,50
+1/1/2021,Madhya Pradesh,Indore,13,35,105,44
+1/1/2021,Madhya Pradesh,Jabalpur,12,33,114,44
+1/1/2021,Madhya Pradesh,Katni,14,26,142,55
+1/1/2021,Madhya Pradesh,Maihar,11,11,57,33
+1/1/2021,Madhya Pradesh,Mandideep,30,30,98,43
+1/1/2021,Madhya Pradesh,Nagda,6,5,41,19
+1/1/2021,Madhya Pradesh,Pithampur,16,21,89,45
+1/1/2021,Madhya Pradesh,Ratlam,13,20,98,42
+1/1/2021,Madhya Pradesh,Rewa,9,18,70,34
+1/1/2021,Madhya Pradesh,Sagar,7,18,80,34
+1/1/2021,Madhya Pradesh,Satna,15,9,80,26
+1/1/2021,Madhya Pradesh,Singrauli,29,41,182,77
+1/1/2021,Madhya Pradesh,Ujjain,7,15,113,42
+1/1/2021,Maharashtra,Aurangabad,17,28,80,34
+1/1/2021,Maharashtra,Chandrapur,9,19,105,44
+1/1/2021,Maharashtra,Dombivali / Kalyan,29,16,121,59
+1/1/2021,Maharashtra,Mumbai,14,23,106,47
+1/1/2021,Maharashtra,Nagpur,10,25,72,36
+1/1/2021,Maharashtra,Nashik,4,27,59,40
+1/1/2021,Maharashtra,Navi Mumbai,15,35,92,52
+1/1/2021,Maharashtra,Pune,26,38,108,45
+1/1/2021,Maharashtra,Solapur,11,16,72,36
+1/1/2021,Manipur,Imphal,6,26,123,48
+1/1/2021,Meghalaya,Byraihat,13,14,226,30
+1/1/2021,Meghalaya,Khlihriat,4,7,42,7
+1/1/2021,Meghalaya,Nongstoin,3,8,35,7
+1/1/2021,Meghalaya,Shillong,10,6,27,12
+1/1/2021,Meghalaya,Tura,3,7,37,6
+1/1/2021,Meghalaya,Umaim,4,9,101,12
+1/1/2021,Mizoram,Aizwal,10,3,41,24
+1/1/2021,Mizoram,Champhai,2,5,22,15
+1/1/2021,Mizoram,Khatla,2,5,25,25
+1/1/2021,Mizoram,Kolasib,2,5,17,8
+1/1/2021,Mizoram,Lengpui,2,7,39,39
+1/1/2021,Mizoram,Lunglei,2,5,25,6
+1/1/2021,Nagaland,Kohima,20,3,77,33
+1/1/2021,Odisha,Angul,10,27,96,36
+1/1/2021,Odisha,Balasore,4,11,76,44
+1/1/2021,Odisha,Berhampur,5,20,63,25
+1/1/2021,Odisha,Bhubaneshwar,2,16,94,36
+1/1/2021,Odisha,Bonaigarh,9,12,103,39
+1/1/2021,Odisha,Brajrajnagar,25,19,71,34
+1/1/2021,Odisha,Cuttack,4,18,87,35
+1/1/2021,Odisha,Jharsuguda,8,14,102,56
+1/1/2021,Odisha,Kalinga Nagar,2,16,115,68
+1/1/2021,Odisha,Rajgangpur,10,13,129,42
+1/1/2021,Odisha,Rayagada,5,16,68,33
+1/1/2021,Odisha,Rourkela,9,12,125,48
+1/1/2021,Odisha,Sambalpur,7,25,103,42
+1/1/2021,Odisha,Talcher,16,29,88,40
+1/1/2021,Pondicherry (UT),Pondicherry,7,11,42,20
+1/1/2021,Punjab,Amritsar,14,21,116,51
+1/1/2021,Punjab,Bhatinda,6,15,105,50
+1/1/2021,Punjab,Gobindgarh Mandi Gobindgarh,10,21,122,63
+1/1/2021,Punjab,Jalandhar,13,22,120,55
+1/1/2021,Punjab,Khanna,13,24,105,49
+1/1/2021,Punjab,Ludhiana,10,30,149,54
+1/1/2021,Punjab,Patiala,6,18,110,50
+1/1/2021,Punjab,Rupnagar,11,8,126,59
+1/1/2021,Rajasthan,Ajmer,13,24,96,45
+1/1/2021,Rajasthan,Alwar,12,27,112,43
+1/1/2021,Rajasthan,Bhiwadi,24,39,204,110
+1/1/2021,Rajasthan,Jaipur,10,31,124,58
+1/1/2021,Rajasthan,Jodhpur,7,25,168,75
+1/1/2021,Rajasthan,Kota,9,26,114,60
+1/1/2021,Rajasthan,Pali,9,20,118,58
+1/1/2021,Rajasthan,Udaipur,11,26,120,55
+1/1/2021,Sikkim,Gangtok,5,11,49,31
+1/1/2021,Tamilnadu,Chennai,11,13,58,26
+1/1/2021,Tamilnadu,Coimbatore,10,20,47,32
+1/1/2021,Tamilnadu,Cuddalore,13,19,48,25
+1/1/2021,Tamilnadu,Dharmapuri,8,24,42,23
+1/1/2021,Tamilnadu,Gummidipoondi,12,13,105,45
+1/1/2021,Tamilnadu,Madurai,13,17,54,25
+1/1/2021,Tamilnadu,Mettur,8,25,39,22
+1/1/2021,Tamilnadu,Nagarcoil,8,15,39,9
+1/1/2021,Tamilnadu,Perambalur,9,13,34,15
+1/1/2021,Tamilnadu,Salem,8,25,40,23
+1/1/2021,Tamilnadu,Sivagangai,9,14,35,15
+1/1/2021,Tamilnadu,Theni,11,17,60,26
+1/1/2021,Tamilnadu,Tiruvannamalai,5,13,52,25
+1/1/2021,Tamilnadu,Tiruvarur,10,14,35,16
+1/1/2021,Tamilnadu,Trichy,12,16,47,19
+1/1/2021,Tamilnadu,Tuticorin / Thoothukudi,5,7,67,21
+1/1/2021,Tamilnadu,Villupuram,11,16,42,17
+1/1/2021,Telangana,Hyderabad,6,34,89,39
+1/1/2021,Telangana,Nalgonda,6,26,71,28
+1/1/2021,Telangana,Nizamabad,6,25,59,31
+1/1/2021,Telangana,Patencheru,6,27,78,34
+1/1/2021,Telangana,Ramagundum,8,46,91,97
+1/1/2021,Telangana,Sangareddy,5,45,82,45
+1/1/2021,Telangana,Warangal,7,35,60,60
+1/1/2021,Tripura,Agartala,19,9,82,50
+1/1/2021,Uttar Pradesh,Agra,5,20,164,85
+1/1/2021,Uttar Pradesh,Allahabad,8,22,133,53
+1/1/2021,Uttar Pradesh,Bagpat,13,28,211,94
+1/1/2021,Uttar Pradesh,Bulandshahr,15,24,195,93
+1/1/2021,Uttar Pradesh,Ghaziabad,16,38,233,110
+1/1/2021,Uttar Pradesh,Greater Noida,12,47,221,96
+1/1/2021,Uttar Pradesh,Hapur,13,15,165,70
+1/1/2021,Uttar Pradesh,Kanpur,12,44,199,71
+1/1/2021,Uttar Pradesh,Lucknow,9,34,174,80
+1/1/2021,Uttar Pradesh,Meerut,15,57,199,86
+1/1/2021,Uttar Pradesh,Moradabad,15,21,184,95
+1/1/2021,Uttar Pradesh,Muzaffarnagar,19,20,173,80
+1/1/2021,Uttar Pradesh,Noida,13,40,215,99
+1/1/2021,Uttar Pradesh,Varanasi,12,34,133,60
+1/1/2021,Uttarakhand,Dehradun,22,26,154,89
+1/1/2021,Uttarakhand,Haldwani,7,25,110,38
+1/1/2021,Uttarakhand,Haridwar,13,20,117,81
+1/1/2021,Uttarakhand,Kashipur,17,21,118,62
+1/1/2021,Uttarakhand,Rishikesh,20,25,132,76
+1/1/2021,West Bengal,Asansol,9,29,123,59
+1/1/2021,West Bengal,Barrckpore,4,22,86,54
+1/1/2021,West Bengal,Darjeeling,8,32,62,32
+1/1/2021,West Bengal,Durgapur,19,27,163,78
+1/1/2021,West Bengal,Haldia,12,28,97,41
+1/1/2021,West Bengal,Howrah,14,33,129,77
+1/1/2021,West Bengal,Jalpaiguri,8,34,96,65
+1/1/2021,West Bengal,Kalyani,2,21,83,48
+1/1/2021,West Bengal,Kolkata,9,36,107,48
+1/1/2021,West Bengal,Siliguri,5,35,105,59
+1/1/2022,Andhra Pradesh,Amaravati,12,10,54,30
+1/1/2022,Andhra Pradesh,Anatapur,6,19,61,32
+1/1/2022,Andhra Pradesh,Chittor,5,13,55,31
+1/1/2022,Andhra Pradesh,Eluru,5,18,67,31
+1/1/2022,Andhra Pradesh,Guntur,4,17,60,23
+1/1/2022,Andhra Pradesh,Kadapa,6,16,56,28
+1/1/2022,Andhra Pradesh,Kakinada,8,15,69,24
+1/1/2022,Andhra Pradesh,Kurnool,6,18,64,34
+1/1/2022,Andhra Pradesh,Nellore,4,17,55,22
+1/1/2022,Andhra Pradesh,Ongole,5,18,50,17
+1/1/2022,Andhra Pradesh,"Rajahmundry/Rajamahend
+ravaram",6,13,66,30
+1/1/2022,Andhra Pradesh,Srikakulam,9,20,72,26
+1/1/2022,Andhra Pradesh,Tirupati,6,22,58,31
+1/1/2022,Andhra Pradesh,Vijayawada,4,18,71,36
+1/1/2022,Andhra Pradesh,Visakhapatnam,15,33,108,43
+1/1/2022,Andhra Pradesh,Vizianagaram,9,19,70,25
+1/1/2022,Arunachal Pradesh,Naharlagun,28,12,57,23
+1/1/2022,Assam,Bongaigaon,5,12,56,30
+1/1/2022,Assam,Brynihat,8,16,257,108
+1/1/2022,Assam,Dibrugarh,6,11,44,22
+1/1/2022,Assam,Golaghat,6,11,43,18
+1/1/2022,Assam,Guwahati,12,8,101,53
+1/1/2022,Assam,Magherita,5,11,39,17
+1/1/2022,Assam,Nagaon,7,15,83,38
+1/1/2022,Assam,Nalbari,7,14,95,47
+1/1/2022,Assam,North Lakhimpur,7,15,60,27
+1/1/2022,Assam,Silcher,7,11,45,20
+1/1/2022,Assam,Sivasagar,5,10,38,19
+1/1/2022,Assam,Tezpur,6,15,57,24
+1/1/2022,Assam,Tinsukia,5,11,40,17
+1/1/2022,Bihar,Araria,8,46,139,77
+1/1/2022,Bihar,Arrah,6,65,162,59
+1/1/2022,Bihar,Aurangabad,9,25,187,74
+1/1/2022,Bihar,Begusarai,12,16,188,114
+1/1/2022,Bihar,Bettiah,3,24,178,95
+1/1/2022,Bihar,Bhagalpur,15,54,170,82
+1/1/2022,Bihar,Bihar Sharif,5,43,209,86
+1/1/2022,Bihar,Buxar,4,31,213,89
+1/1/2022,Bihar,Chhapra,6,37,216,98
+1/1/2022,Bihar,Darbhanga,10,20,202,92
+1/1/2022,Bihar,Gaya,8,38,149,71
+1/1/2022,Bihar,Hajipur,5,24,138,67
+1/1/2022,Bihar,Katihar,8,32,227,103
+1/1/2022,Bihar,Kishanganj,6,36,142,75
+1/1/2022,Bihar,Manguraha,5,26,88,38
+1/1/2022,Bihar,Motihari,7,31,153,79
+1/1/2022,Bihar,Munger,15,29,201,90
+1/1/2022,Bihar,Muzaffarpur,9,24,175,89
+1/1/2022,Bihar,Patna,7,32,175,90
+1/1/2022,Bihar,Purnia,5,45,167,100
+1/1/2022,Bihar,Rajgir,6,35,132,70
+1/1/2022,Bihar,Saharsa,4,43,250,103
+1/1/2022,Bihar,Samastipur,5,40,220,88
+1/1/2022,Bihar,Sasaram,13,53,142,74
+1/1/2022,Bihar,Siwan,8,56,198,112
+1/1/2022,Chandigarh (UT),Chandigarh,7,27,113,57
+1/1/2022,Chattisgarh,Bilaspur,8,14,61,27
+1/1/2022,Chattisgarh,Durg Bhillainagar,10,13,61,26
+1/1/2022,Chattisgarh,Raigarh,11,13,73,32
+1/1/2022,Chattisgarh,Raipur,14,20,72,30
+1/1/2022,"Dadara & Nagar Haveli
+and Daman & Diu (UT)",Baldevi,15,20,73,29
+1/1/2022,"Dadara & Nagar Haveli
+and Daman & Diu (UT)",Daman,19,24,76,31
+1/1/2022,"Dadara & Nagar Haveli
+and Daman & Diu (UT)",Patlara (Daman),18,23,76,30
+1/1/2022,"Dadara & Nagar Haveli
+and Daman & Diu (UT)",Silvasa,17,22,77,30
+1/1/2022,Delhi (UT),Delhi,9,41,207,98
+1/1/2022,Goa,Amona,7,12,58,27
+1/1/2022,Goa,Assanora,7,13,57,27
+1/1/2022,Goa,Bicholim,7,13,57,27
+1/1/2022,Goa,Codli,7,13,58,27
+1/1/2022,Goa,Cuncolim,7,13,68,31
+1/1/2022,Goa,Honda,7,13,58,27
+1/1/2022,Goa,Kundaim,7,13,59,28
+1/1/2022,Goa,Margao,7,13,57,27
+1/1/2022,Goa,Ponda,7,13,59,28
+1/1/2022,Goa,Sanguem,7,13,57,27
+1/1/2022,Goa,Tilamol,7,13,58,27
+1/1/2022,Goa,Tuem,7,13,57,27
+1/1/2022,Goa,Usgao Pale,7,13,60,28
+1/1/2022,Goa,Vasco,2,15,47,26
+1/1/2022,Gujarat,Ahmedabad,22,33,112,41
+1/1/2022,Gujarat,Ankleshwar,38,32,114,59
+1/1/2022,Gujarat,Gandhinagar,16,13,89,47
+1/1/2022,Gujarat,Jamnagar,14,19,109,27
+1/1/2022,Gujarat,Nandesari,10,4,55,45
+1/1/2022,Gujarat,Rajkot,14,19,108,28
+1/1/2022,Gujarat,Surat,19,23,113,49
+1/1/2022,Gujarat,Vadodara,14,19,110,28
+1/1/2022,Gujarat,Vapi,37,9,119,69
+1/1/2022,Gujarat,Vatva,8,42,113,51
+1/1/2022,Haryana,Ambala,7,24,136,68
+1/1/2022,Haryana,Bahadurgarh,11,26,163,83
+1/1/2022,Haryana,Ballabgarh,20,14,156,68
+1/1/2022,Haryana,Bhiwani,15,21,117,74
+1/1/2022,Haryana,Charkhi Dadri,7,17,157,77
+1/1/2022,Haryana,Dharuhera,10,19,216,87
+1/1/2022,Haryana,Faridabad,15,20,211,92
+1/1/2022,Haryana,Fatehabad,10,22,150,73
+1/1/2022,Haryana,Gurgaon,7,24,197,90
+1/1/2022,Haryana,Hissar,8,40,153,79
+1/1/2022,Haryana,Jind,8,15,132,78
+1/1/2022,Haryana,Kaithal,13,14,142,67
+1/1/2022,Haryana,Karnal,11,12,113,55
+1/1/2022,Haryana,Kurukshetra,11,31,132,74
+1/1/2022,Haryana,Mandikhera,13,10,87,28
+1/1/2022,Haryana,Manesar,13,21,161,91
+1/1/2022,Haryana,Narnaul,5,26,114,55
+1/1/2022,Haryana,Palwal,5,14,116,35
+1/1/2022,Haryana,Panipat,23,19,167,50
+1/1/2022,Haryana,Sirsa,19,28,130,50
+1/1/2022,Haryana,Sonepat,12,19,184,46
+1/1/2022,Haryana,Yamuna Nagar,11,14,168,76
+1/1/2022,Himachal Pradesh,Baddi,16,17,126,46
+1/1/2022,Himachal Pradesh,Damtal,2,5,67,33
+1/1/2022,Himachal Pradesh,Dharamshala,2,5,47,22
+1/1/2022,Himachal Pradesh,Kala Amb,4,12,84,42
+1/1/2022,Himachal Pradesh,Manali,2,7,43,14
+1/1/2022,Himachal Pradesh,Nalagarh,2,13,80,25
+1/1/2022,Himachal Pradesh,Parwanoo,2,5,44,12
+1/1/2022,Himachal Pradesh,Poanta Sahib,4,11,101,47
+1/1/2022,Himachal Pradesh,Shimla,2,8,44,20
+1/1/2022,Himachal Pradesh,Sunder Nagar,2,5,47,22
+1/1/2022,Himachal Pradesh,Una,3,8,55,27
+1/1/2022,Jammu & Kashmir (UT),Jammu,3,21,171,32
+1/1/2022,Jammu & Kashmir (UT),Srinagar (K),22,17,83,27
+1/1/2022,Karnataka,Bagalkote,5,9,47,24
+1/1/2022,Karnataka,Bangalore,6,19,68,32
+1/1/2022,Karnataka,Belgaum,21,19,88,37
+1/1/2022,Karnataka,Bijapur / Vijayapura,5,10,50,18
+1/1/2022,Karnataka,Chamarajanagar,3,17,40,17
+1/1/2022,Karnataka,Chikkaballapur,9,22,67,33
+1/1/2022,Karnataka,Chikkamagaluru,5,17,46,20
+1/1/2022,Karnataka,Chitradurga,3,6,41,12
+1/1/2022,Karnataka,Devanagere,4,16,66,26
+1/1/2022,Karnataka,Gadag,15,13,53,28
+1/1/2022,Karnataka,Gulbarga / Kalaburgi,17,20,92,38
+1/1/2022,Karnataka,Hassan,17,25,68,27
+1/1/2022,Karnataka,Haveri,13,8,51,25
+1/1/2022,Karnataka,Hubli Dharwad,8,15,72,29
+1/1/2022,Karnataka,Kolar,59,13,97,43
+1/1/2022,Karnataka,Koppal,20,13,55,23
+1/1/2022,Karnataka,Madikeri,16,4,36,19
+1/1/2022,Karnataka,Mangalore,8,27,58,22
+1/1/2022,Karnataka,Mysore,3,14,47,20
+1/1/2022,Karnataka,Raichur,16,24,91,31
+1/1/2022,Karnataka,Ramanagara,24,19,58,28
+1/1/2022,Karnataka,Shimaga / Shivamogga,5,23,52,23
+1/1/2022,Karnataka,Tumkuru,2,14,59,34
+1/1/2022,Karnataka,Yadgir,19,12,62,30
+1/1/2022,Kerala,Eloor,12,18,62,31
+1/1/2022,Kerala,Ernakulam,3,26,34,22
+1/1/2022,Kerala,Kannur,2,14,63,36
+1/1/2022,Kerala,Kochi,6,17,80,58
+1/1/2022,Kerala,Kollam,4,16,72,33
+1/1/2022,Kerala,Kozhikode,5,14,59,33
+1/1/2022,Kerala,Mallappuram,2,15,31,25
+1/1/2022,Kerala,Palakkad,2,5,62,24
+1/1/2022,Kerala,Thiruvanantapuram,5,12,43,27
+1/1/2022,Kerala,Thrissur,3,18,54,31
+1/1/2022,Kerala,Wayanad,2,5,40,22
+1/1/2022,Madhya Pradesh,Amlai,11,18,71,33
+1/1/2022,Madhya Pradesh,Bhopal,16,22,126,52
+1/1/2022,Madhya Pradesh,Chindwara,5,17,78,35
+1/1/2022,Madhya Pradesh,Dewas,13,23,102,38
+1/1/2022,Madhya Pradesh,Gwalior,20,27,132,64
+1/1/2022,Madhya Pradesh,Indore,14,49,111,42
+1/1/2022,Madhya Pradesh,Jabalpur,10,30,128,46
+1/1/2022,Madhya Pradesh,Katni,17,27,151,58
+1/1/2022,Madhya Pradesh,Maihar,9,10,37,17
+1/1/2022,Madhya Pradesh,Mandideep,37,38,108,39
+1/1/2022,Madhya Pradesh,Nagda,7,5,45,23
+1/1/2022,Madhya Pradesh,Pithampur,15,14,106,44
+1/1/2022,Madhya Pradesh,Ratlam,12,27,98,40
+1/1/2022,Madhya Pradesh,Rewa,6,21,56,25
+1/1/2022,Madhya Pradesh,Sagar,8,19,78,34
+1/1/2022,Madhya Pradesh,Satna,6,13,62,21
+1/1/2022,Madhya Pradesh,Singrauli,27,71,184,72
+1/1/2022,Madhya Pradesh,Ujjain,8,16,118,46
+1/1/2022,Maharashtra,Aurangabad,15,26,125,58
+1/1/2022,Maharashtra,Chandrapur,14,27,123,48
+1/1/2022,Maharashtra,Dombivali / Kalyan,21,28,128,54
+1/1/2022,Maharashtra,Mumbai,16,29,114,49
+1/1/2022,Maharashtra,Nagpur,8,22,85,45
+1/1/2022,Maharashtra,Nashik,5,27,61,36
+1/1/2022,Maharashtra,Navi Mumbai,21,44,100,50
+1/1/2022,Maharashtra,Pune,47,64,110,73
+1/1/2022,Maharashtra,Solapur,18,24,74,40
+1/1/2022,Maharashtra,Thane,21,42,116,58
+1/1/2022,Maharashtra,Vasai virar,22,19,156,40
+1/1/2022,Manipur,Imphal,51,8,37,12
+1/1/2022,Meghalaya,Byraihat,21,19,152,60
+1/1/2022,Meghalaya,Dawki,6,12,39,21
+1/1/2022,Meghalaya,Khlihriat,5,10,48,25
+1/1/2022,Meghalaya,Nongstoin,5,11,38,21
+1/1/2022,Meghalaya,Shillong,11,13,34,20
+1/1/2022,Meghalaya,Tura,3,7,36,17
+1/1/2022,Meghalaya,Umaim,6,8,96,31
+1/1/2022,Mizoram,Aizwal,9,4,42,10
+1/1/2022,Mizoram,Champhai,2,5,22,11
+1/1/2022,Mizoram,Kolasib,2,5,20,9
+1/1/2022,Nagaland,Kohima,41,3,70,27
+1/1/2022,Odisha,Angul,10,27,100,36
+1/1/2022,Odisha,Balasore,4,11,79,49
+1/1/2022,Odisha,Berhampur,5,21,66,29
+1/1/2022,Odisha,Bhubaneshwar,2,17,108,38
+1/1/2022,Odisha,Bonaigarh,11,14,107,41
+1/1/2022,Odisha,Brajrajnagar,24,19,73,34
+1/1/2022,Odisha,Cuttack,4,19,103,35
+1/1/2022,Odisha,Jharsuguda,9,14,111,55
+1/1/2022,Odisha,Kalinga Nagar,6,14,102,59
+1/1/2022,Odisha,Paradeep,14,9,91,39
+1/1/2022,Odisha,Rajgangpur,11,12,118,29
+1/1/2022,Odisha,Rourkela,11,13,110,42
+1/1/2022,Odisha,Sambalpur,7,25,102,36
+1/1/2022,Odisha,Talcher,24,28,80,39
+1/1/2022,Pondicherry (UT),Pondicherry,9,11,51,25
+1/1/2022,Punjab,Amritsar,14,37,117,51
+1/1/2022,Punjab,Bhatinda,11,21,119,38
+1/1/2022,Punjab,Jalandhar,13,23,126,46
+1/1/2022,Punjab,Khanna,13,26,114,47
+1/1/2022,Punjab,Ludhiana,11,23,172,59
+1/1/2022,Punjab,Mandi Gobindgarh,11,23,132,72
+1/1/2022,Punjab,Patiala,6,19,105,48
+1/1/2022,Punjab,Rupnagar,8,11,119,45
+1/1/2022,Rajasthan,Ajmer,18,26,113,51
+1/1/2022,Rajasthan,Alwar,13,25,118,41
+1/1/2022,Rajasthan,Bhiwadi,18,58,210,94
+1/1/2022,Rajasthan,Jaipur,11,39,143,57
+1/1/2022,Rajasthan,Jodhpur,11,32,155,69
+1/1/2022,Rajasthan,Kota,10,27,126,60
+1/1/2022,Rajasthan,Pali,9,21,105,58
+1/1/2022,Rajasthan,Udaipur,8,28,130,54
+1/1/2022,Sikkim,Gangtok,9,5,44,13
+1/1/2022,Tamilnadu,Chengalpattu,49,27,80,41
+1/1/2022,Tamilnadu,Chennai,11,16,61,27
+1/1/2022,Tamilnadu,Coimbatore,14,16,50,27
+1/1/2022,Tamilnadu,Cuddalore,16,18,45,17
+1/1/2022,Tamilnadu,Dharmapuri,9,23,44,23
+1/1/2022,Tamilnadu,Dindigul,34,45,44,27
+1/1/2022,Tamilnadu,Gummidipoondi,8,7,34,20
+1/1/2022,Tamilnadu,Hosur,26,12,66,35
+1/1/2022,Tamilnadu,Madurai,17,20,67,28
+1/1/2022,Tamilnadu,Mettur,9,23,43,21
+1/1/2022,Tamilnadu,Nagercoil,8,14,42,12
+1/1/2022,Tamilnadu,Ooty,39,10,46,21
+1/1/2022,Tamilnadu,Perambalur,10,13,34,14
+1/1/2022,Tamilnadu,Ramanathapuram,10,3,46,20
+1/1/2022,Tamilnadu,Salem,24,14,48,25
+1/1/2022,Tamilnadu,Sivagangai,12,15,42,24
+1/1/2022,Tamilnadu,Theni,13,19,54,25
+1/1/2022,Tamilnadu,Tirupur,17,19,136,42
+1/1/2022,Tamilnadu,Tiruvannamalai,5,14,52,17
+1/1/2022,Tamilnadu,Tiruvarur,14,16,41,15
+1/1/2022,Tamilnadu,Trichy,11,15,46,20
+1/1/2022,Tamilnadu,Tuticorin,6,12,56,17
+1/1/2022,Tamilnadu,Vellore,21,6,69,30
+1/1/2022,Tamilnadu,Villupuram,14,17,42,16
+1/1/2022,Telangana,Hyderabad,7,22,88,39
+1/1/2022,Telangana,Karimnagar,6,29,83,40
+1/1/2022,Telangana,Nalgonda,11,29,71,30
+1/1/2022,Telangana,Nizamabad,7,25,56,30
+1/1/2022,Telangana,Patencheru,9,31,83,37
+1/1/2022,Telangana,Ramagundum,7,31,83,51
+1/1/2022,Telangana,Sangareddy,9,32,88,48
+1/1/2022,Tripura,Agartala,31,11,94,53
+1/1/2022,Uttar Pradesh,Agra,14,21,129,66
+1/1/2022,Uttar Pradesh,Allahabad,25,21,124,45
+1/1/2022,Uttar Pradesh,Baghpat,21,36,145,74
+1/1/2022,Uttar Pradesh,Bareilly,12,26,124,48
+1/1/2022,Uttar Pradesh,Bulandshahr,14,26,183,73
+1/1/2022,Uttar Pradesh,Firozabad,14,29,132,51
+1/1/2022,Uttar Pradesh,Ghaziabad,16,42,211,87
+1/1/2022,Uttar Pradesh,Gorakhpur,30,28,97,38
+1/1/2022,Uttar Pradesh,Greater Noida,17,35,219,80
+1/1/2022,Uttar Pradesh,Hapur,12,31,164,74
+1/1/2022,Uttar Pradesh,Jhansi,15,19,129,47
+1/1/2022,Uttar Pradesh,Kanpur,11,33,142,59
+1/1/2022,Uttar Pradesh,Khurja,20,24,156,62
+1/1/2022,Uttar Pradesh,Lucknow,10,31,148,63
+1/1/2022,Uttar Pradesh,Meerut,15,41,168,78
+1/1/2022,Uttar Pradesh,Moradabad,15,16,124,53
+1/1/2022,Uttar Pradesh,Muzaffarnagar,15,23,180,93
+1/1/2022,Uttar Pradesh,Noida,17,40,210,80
+1/1/2022,Uttar Pradesh,Varanasi,20,28,103,38
+1/1/2022,Uttar Pradesh,Vrindavan,32,12,104,41
+1/1/2022,Uttarakhand,Dehradun,11,14,118,59
+1/1/2022,Uttarakhand,Haldwani,8,25,114,31
+1/1/2022,Uttarakhand,Kashipur,16,20,123,60
+1/1/2022,Uttarakhand,Rishikesh,18,23,136,72
+1/1/2022,West Bengal,Asansol+Raniganj,11,35,135,60
+1/1/2022,West Bengal,Barrckpore,4,24,86,55
+1/1/2022,West Bengal,Darjeeling,8,31,64,32
+1/1/2022,West Bengal,Durgapur,20,26,156,62
+1/1/2022,West Bengal,Haldia,14,25,94,36
+1/1/2022,West Bengal,Howrah,14,25,131,65
+1/1/2022,West Bengal,Kalyani,3,23,84,47
+1/1/2022,West Bengal,Kolkata,8,34,101,44
+1/1/2022,West Bengal,Siliguri,9,37,111,42
+2019,Andhra Pradesh,Anantapur,6,18,85,41
+2019,Andhra Pradesh,Chitoor,5,37,58,24
+2019,Andhra Pradesh,Eluru,5,19,69,22
+2019,Andhra Pradesh,Guntur,5,19,62,29
+2019,Andhra Pradesh,Kadapa,6,16,60,30
+2019,Andhra Pradesh,Kakinada,8,18,63,30
+2019,Andhra Pradesh,Kurnool,5,14,59,25
+2019,Andhra Pradesh,Nellore,5,19,68,33
+2019,Andhra Pradesh,Ongole,5,19,62,25
+2019,Andhra Pradesh,Srikakulam,8,18,72,36
+2019,Andhra Pradesh,Vijaywada,5,19,73,25
+2019,Andhra Pradesh,Vishakhapatnam,9,21,86,36
+2019,Andhra Pradesh,Vizianagaram,8,19,74,35
+2019,Assam,Guwahati,12,15,122,27
+2019,Bihar,Begusarai,12,22,117,55
+2019,Bihar,Muzaffarpur,14,31,152,101
+2019,Chandigarh,Chandigarh,2,24,114,74
+2019,Chattisgarh,Bilaspur,6,12,47,27
+2019,Chattisgarh,Korba,8,19,58,30
+2019,Dadra & Nagar Haveli and Daman & Diu,Daman,23,26,99,38
+2019,Dadra & Nagar Haveli and Daman & Diu,Silvassa,26,28,108,39
+2019,Delhi,Delhi,3,92,154,108
+2019,Goa,Amona,11,14,72,38
+2019,Goa,Assanora,11,14,57,30
+2019,Goa,Bicholim,11,14,63,31
+2019,Goa,Codli,10,14,60,32
+2019,Goa,Cuncolim,11,14,80,38
+2019,Goa,Honda,11,14,63,32
+2019,Goa,Kundaim,11,14,62,31
+2019,Goa,Margao,11,14,59,30
+2019,Goa,Panaji,3,13,87,50
+2019,Goa,Ponda,11,14,66,33
+2019,Goa,Sanguem,11,14,57,29
+2019,Goa,Tilamol,11,14,67,35
+2019,Goa,Tuem,11,14,57,29
+2019,Goa,Usgao,11,14,64,33
+2019,Goa,Vasco,3,13,81,41
+2019,Gujarat,Ahmedabad,19,25,132,38
+2019,Gujarat,Anklesvar,20,26,119,37
+2019,Gujarat,Jamnagar,19,25,123,34
+2019,Gujarat,Rajkot,21,26,128,35
+2019,Gujarat,Surat,23,26,100,33
+2019,Gujarat,Vadodara,19,25,107,34
+2019,Gujarat,Vapi,21,26,131,45
+2019,Himachal Pradesh,Damtal,2,9,47,19
+2019,Himachal Pradesh,Dharamshala,2,6,35,14
+2019,Himachal Pradesh,Kala Amb,3,15,121,85
+2019,Himachal Pradesh,Manali,2,11,79,27
+2019,Himachal Pradesh,Paonta Sahib,3,13,79,39
+2019,Himachal Pradesh,Parwanoo,2,6,61,18
+2019,Himachal Pradesh,Shimla,2,26,59,26
+2019,Himachal Pradesh,Sunder Nagar,2,8,69,30
+2019,Karnataka,Bagalkote,2,17,45,29
+2019,Karnataka,Bangalore,2,27,91,32
+2019,Karnataka,Belgaum,2,16,87,38
+2019,Karnataka,Bidar,2,9,71,39
+2019,Karnataka,Devanagere,6,8,52,16
+2019,Karnataka,Gulburga,3,13,87,46
+2019,Karnataka,Hassan,3,20,37,25
+2019,Karnataka,Hubli-Dharwad,4,17,62,20
+2019,Karnataka,Kolar,2,27,109,28
+2019,Karnataka,Mysore,2,15,52,26
+2019,Karnataka,Raichur,2,11,74,14
+2019,Karnataka,Shimaga,24,6,33,12
+2019,Kerala,Kochi,3,19,49,32
+2019,Kerala,Kozhikode,2,5,44,13
+2019,Madhya Pradesh,Chhindwara,3,14,73,34
+2019,Madhya Pradesh,Dewas,19,26,80,47
+2019,Madhya Pradesh,Gwalior,12,23,135,57
+2019,Madhya Pradesh,Indore,9,18,81,39
+2019,Madhya Pradesh,Nagda,14,12,45,30
+2019,Madhya Pradesh,Prithampur,10,18,85,32
+2019,Madhya Pradesh,Sagar,4,14,75,19
+2019,Madhya Pradesh,Singrauli,31,49,189,68
+2019,Maharashtra,Mumbai,2,27,118,40
+2019,Maharashtra,Nagpur,13,39,103,39
+2019,Meghalaya,Byrnihat,15,13,103,7
+2019,Meghalaya,Dawki,7,13,53,7
+2019,Meghalaya,Khliehriat,3,11,43,7
+2019,Meghalaya,Nongstoin,2,13,30,7
+2019,Meghalaya,Shillong,2,7,30,9
+2019,Meghalaya,Tura,3,12,31,7
+2019,Odisha,Angul,11,27,107,55
+2019,Odisha,Balasore,2,11,85,45
+2019,Odisha,Berhampur,4,19,65,26
+2019,Odisha,Bhubneshwar,2,19,108,30
+2019,Odisha,Bonaigarh,9,16,118,51
+2019,Odisha,Cuttack,5,19,108,40
+2019,Odisha,Jharsuguda,7,13,106,51
+2019,Odisha,Paradeep,18,11,146,55
+2019,Odisha,Rajgangpur,12,19,150,58
+2019,Odisha,Rayagada,4,17,63,32
+2019,Odisha,Rourkela,8,14,87,37
+2019,Odisha,Sambalpur,6,24,92,48
+2019,Odisha,Talcher,10,28,119,49
+2019,Tamilnadu,Chennai,15,18,63,36
+2019,Tamilnadu,Coimbatore,6,16,41,28
+2019,Tamilnadu,Cuddalore,13,18,52,32
+2019,Tamilnadu,Trichy,13,18,79,57
+2019,Tamilnadu,Tuticorin,10,11,83,22
+2019,Telangana,Adilabad,5,25,74,45
+2019,Telangana,Hyderabad,6,51,148,35
+2019,Telangana,Khammam,9,53,95,45
+2019,Telangana,Nizamabad,5,25,63,41
+2019,Telangana,Patencheru,5,25,83,41
+2019,Telangana,Sangareddy,8,39,104,45
+2019,Tripura,Agartala,4,10,48,24
+2019,Uttar Pradesh,Agra,4,21,192,102
+2019,Uttar Pradesh,Baghpat,11,21,168,91
+2019,Uttar Pradesh,Ghaziabad,15,46,231,102
+2019,Uttar Pradesh,Greater Noida,12,26,189,94
+2019,Uttar Pradesh,Hapur,13,23,208,114
+2019,Uttar Pradesh,Kanpur,8,48,210,66
+2019,Uttar Pradesh,Muzaffarnagar,8,33,194,86
+2019,Uttar Pradesh,Noida,14,61,235,117
+2019,West Bengal,Asansol,15,43,182,81
+2019,West Bengal,Barrackpore,8,27,112,66
+2019,West Bengal,Darjeeling,5,30,57,24
+2019,West Bengal,Durgapur,15,44,183,73
+2019,West Bengal,Haldia,9,39,89,35
+2019,West Bengal,Howrah,13,42,254,73
+2019,West Bengal,Kalyani,7,26,113,60
+2019,West Bengal,Kolkata,7,38,89,62
+2019,West Bengal,Siliguri,6,33,80,32
